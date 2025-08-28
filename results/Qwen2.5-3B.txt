@@ -1,0 +1,15 @@
+train
+{'loss': 1.1278, 'grad_norm': 0.17532362043857574, 'learning_rate': 0.0001156434465040231, 'num_tokens': 81920.0, 'mean_token_accuracy': 0.7001221403479576, 'epoch': 0.2}
+{'loss': 1.0351, 'grad_norm': 0.2324269562959671, 'learning_rate': 1.231165940486234e-06, 'num_tokens': 163840.0, 'mean_token_accuracy': 0.7197362065315247, 'epoch': 0.4}
+{'train_runtime': 299.1712, 'train_samples_per_second': 0.535, 'train_steps_per_second': 0.067, 'train_loss': 1.081493902206421, 'epoch': 0.4}
+
+
+test
+{'eval_loss': 1.0562033653259277, 'eval_runtime': 178.7483, 'eval_samples_per_second': 2.238, 'eval_steps_per_second': 1.119, 'eval_num_tokens': 163840.0, 'eval_mean_token_accuracy': 0.7136590215563774, 'epoch': 0.4}
+
+参数的量化。
+trainable params: 5,013,504 || all params: 3,090,952,192 || trainable%: 0.1622
+
+
+
+
